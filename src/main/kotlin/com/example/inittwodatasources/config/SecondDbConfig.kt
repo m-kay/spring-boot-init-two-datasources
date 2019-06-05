@@ -21,7 +21,7 @@ import javax.persistence.EntityManagerFactory
 import javax.sql.DataSource
 
 /**
- * Configuration for the second database where legacy configurations are stored directly
+ * Configuration for the second database
  */
 @Configuration
 @EnableJpaRepositories(
